@@ -1,0 +1,18 @@
+c:\users\sagianos_p\documents\visual studio 2015\Projects\TPCodeChallenge\TPCodeChallenge\bin\Debug\TPCodeChallenge.exe.config
+c:\users\sagianos_p\documents\visual studio 2015\Projects\TPCodeChallenge\TPCodeChallenge\bin\Debug\TPCodeChallenge.exe
+c:\users\sagianos_p\documents\visual studio 2015\Projects\TPCodeChallenge\TPCodeChallenge\bin\Debug\TPCodeChallenge.pdb
+c:\users\sagianos_p\documents\visual studio 2015\Projects\TPCodeChallenge\TPCodeChallenge\obj\Debug\TPCodeChallenge.csprojResolveAssemblyReference.cache
+c:\users\sagianos_p\documents\visual studio 2015\Projects\TPCodeChallenge\TPCodeChallenge\obj\Debug\TPCodeChallenge.exe
+c:\users\sagianos_p\documents\visual studio 2015\Projects\TPCodeChallenge\TPCodeChallenge\obj\Debug\TPCodeChallenge.pdb
+C:\Users\Bloodsteel\Desktop\TPCodeChallenge\TPCodeChallenge\bin\Debug\TPCodeChallenge.exe.config
+C:\Users\Bloodsteel\Desktop\TPCodeChallenge\TPCodeChallenge\obj\Debug\TPCodeChallenge.exe
+C:\Users\Bloodsteel\Desktop\TPCodeChallenge\TPCodeChallenge\obj\Debug\TPCodeChallenge.pdb
+C:\Users\Bloodsteel\Desktop\TPCodeChallenge\TPCodeChallenge\bin\Debug\TPCodeChallenge.exe
+C:\Users\Bloodsteel\Desktop\TPCodeChallenge\TPCodeChallenge\bin\Debug\TPCodeChallenge.pdb
+C:\Users\Bloodsteel\Desktop\TPCodeChallenge\TPCodeChallenge\obj\Debug\TPCodeChallenge.csprojResolveAssemblyReference.cache
+C:\Users\sagianos_p\Desktop\TPCodeChallenge\TPCodeChallenge\bin\Debug\TPCodeChallenge.exe.config
+C:\Users\sagianos_p\Desktop\TPCodeChallenge\TPCodeChallenge\obj\Debug\TPCodeChallenge.exe
+C:\Users\sagianos_p\Desktop\TPCodeChallenge\TPCodeChallenge\obj\Debug\TPCodeChallenge.pdb
+C:\Users\sagianos_p\Desktop\TPCodeChallenge\TPCodeChallenge\bin\Debug\TPCodeChallenge.exe
+C:\Users\sagianos_p\Desktop\TPCodeChallenge\TPCodeChallenge\bin\Debug\TPCodeChallenge.pdb
+C:\Users\sagianos_p\Desktop\TPCodeChallenge\TPCodeChallenge\obj\Debug\TPCodeChallenge.csprojResolveAssemblyReference.cache
